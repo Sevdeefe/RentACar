@@ -1,0 +1,1206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\svdef\\source\\repos\\RECAAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDBAD86-BFE0-412D-A747-74B9631B5A5B}|WebAPI\\WebAPI.csproj|c:\\users\\svdef\\source\\repos\\recaap\\webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDBAD86-BFE0-412D-A747-74B9631B5A5B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\dataacces\\entityfremework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\dataacces\\entityfremework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDBAD86-BFE0-412D-A747-74B9631B5A5B}|WebAPI\\WebAPI.csproj|c:\\users\\svdef\\source\\repos\\recaap\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDBAD86-BFE0-412D-A747-74B9631B5A5B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDBAD86-BFE0-412D-A747-74B9631B5A5B}|WebAPI\\WebAPI.csproj|c:\\users\\svdef\\source\\repos\\recaap\\webapi\\controllers\\carscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDBAD86-BFE0-412D-A747-74B9631B5A5B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\carscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\business\\constants\\massages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|solutionrelative:business\\constants\\massages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\business\\constants\\pathconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|solutionrelative:business\\constants\\pathconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\business\\concrete\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|solutionrelative:business\\concrete\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\business\\abstract\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|solutionrelative:business\\abstract\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDBAD86-BFE0-412D-A747-74B9631B5A5B}|WebAPI\\WebAPI.csproj|c:\\users\\svdef\\source\\repos\\recaap\\webapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDBAD86-BFE0-412D-A747-74B9631B5A5B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\entities\\concrete\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\security\\jwt\\accestoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\accestoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\entities\\dtos\\rentaldetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\rentaldetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\entities\\dtos\\findexdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\findexdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\entities\\dtos\\carfindexdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\carfindexdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\entities\\dtos\\cardetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\cardetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\entities\\concrete\\carimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\carimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\entities\\concrete\\carfindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\carfindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2414D251-0E2C-43F4-8A0F-BA372EBAA50F}|DataAccess\\DataAccess.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\dataaccess\\concrete\\inmemory\\inmemorycardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2414D251-0E2C-43F4-8A0F-BA372EBAA50F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\inmemory\\inmemorycardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2414D251-0E2C-43F4-8A0F-BA372EBAA50F}|DataAccess\\DataAccess.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\dataaccess\\concrete\\entityfremework\\efcustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2414D251-0E2C-43F4-8A0F-BA372EBAA50F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityfremework\\efcustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2414D251-0E2C-43F4-8A0F-BA372EBAA50F}|DataAccess\\DataAccess.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\dataaccess\\concrete\\entityfremework\\efcarfindexdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2414D251-0E2C-43F4-8A0F-BA372EBAA50F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityfremework\\efcarfindexdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2414D251-0E2C-43F4-8A0F-BA372EBAA50F}|DataAccess\\DataAccess.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\dataaccess\\concrete\\entityfremework\\efcolordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2414D251-0E2C-43F4-8A0F-BA372EBAA50F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityfremework\\efcolordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2414D251-0E2C-43F4-8A0F-BA372EBAA50F}|DataAccess\\DataAccess.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\dataaccess\\concrete\\entityfremework\\efcardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2414D251-0E2C-43F4-8A0F-BA372EBAA50F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityfremework\\efcardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\result\\errordataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\result\\errordataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\result\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\result\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\ioc\\servicetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\ioc\\servicetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\ioc\\icoremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\ioc\\icoremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\interceptors\\methodinterception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\methodinterception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\interceptors\\aspectinterceptorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\aspectinterceptorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\helpers\\ifilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\helpers\\ifilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\helpers\\filehelpermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\helpers\\filehelpermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\helpers\\guidhelpers\\guidhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\helpers\\guidhelpers\\guidhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\utilities\\business\\businessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\utilities\\business\\businessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\extensions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\extensions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\extensions\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\extensions\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\entities\\ientitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\entities\\ientitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\entities\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\entities\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\entities\\concrete\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\entities\\concrete\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\depensdencyresolver\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\depensdencyresolver\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\dataacces\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\dataacces\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\crosscuttingconcers\\validation\\validationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcers\\validation\\validationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\crosscuttingconcers\\caching\\icachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcers\\caching\\icachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\crosscuttingconcers\\caching\\microsoft\\memorycachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcers\\caching\\microsoft\\memorycachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\aspects\\autofac\\validation\\validationaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\validation\\validationaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\aspects\\autofac\\transaction\\transactionscopeaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\transaction\\transactionscopeaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\aspects\\autofac\\performance\\performanceaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\performance\\performanceaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\aspects\\autofac\\caching\\cacheremoveaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\caching\\cacheremoveaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\aspects\\autofac\\caching\\cacheaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\caching\\cacheaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\business\\validationrules\\fluentvalidation\\brandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|solutionrelative:business\\validationrules\\fluentvalidation\\brandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\business\\validationrules\\fluentvalidation\\carimagevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|solutionrelative:business\\validationrules\\fluentvalidation\\carimagevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\business\\dependencyresolyers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|solutionrelative:business\\dependencyresolyers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\business\\concrete\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|solutionrelative:business\\concrete\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\business\\businessaspect\\autofac\\securedoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|solutionrelative:business\\businessaspect\\autofac\\securedoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\business\\concrete\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|solutionrelative:business\\concrete\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\business\\abstract\\icarimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|solutionrelative:business\\abstract\\icarimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93D1076-1B1D-4F9E-A0BD-CE3933624D94}|Business\\Business.csproj|solutionrelative:business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\entities\\dtos\\customerdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\customerdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2414D251-0E2C-43F4-8A0F-BA372EBAA50F}|DataAccess\\DataAccess.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\dataaccess\\concrete\\entityfremework\\rentacarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2414D251-0E2C-43F4-8A0F-BA372EBAA50F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityfremework\\rentacarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\entities\\dtos\\userforupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\entities\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30AE9D4-BF3D-4D73-BCBD-69AC200D93F3}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|C:\\Users\\svdef\\source\\repos\\RECAAP\\core\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4386B65E-17AA-40EA-AF20-5F193AD1A084}|Core\\Core.csproj|solutionrelative:core\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\WebAPI\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\WebAPI\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:01:48.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\WebAPI\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\WebAPI\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:44:53.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwC8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:54:11.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Massages.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Constants\\Massages.cs",
+              "RelativeDocumentMoniker": "Business\\Constants\\Massages.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Constants\\Massages.cs",
+              "RelativeToolTip": "Business\\Constants\\Massages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:48:52.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Abstract\\IContactService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IContactService.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Abstract\\IContactService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IContactService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:44:54.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\Concrete\\Contact.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Contact.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\Concrete\\Contact.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:44:50.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactManager.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Concrete\\ContactManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ContactManager.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Concrete\\ContactManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ContactManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:44:46.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\DataAcces\\EntityFremework\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\DataAcces\\EntityFremework\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\DataAcces\\EntityFremework\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "Core\\DataAcces\\EntityFremework\\EfEntityRepositoryBase.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:52:42.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarsControllers.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\WebAPI\\Controllers\\CarsControllers.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CarsControllers.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\WebAPI\\Controllers\\CarsControllers.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CarsControllers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:01:29.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PathConstants.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Constants\\PathConstants.cs",
+              "RelativeDocumentMoniker": "Business\\Constants\\PathConstants.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Constants\\PathConstants.cs",
+              "RelativeToolTip": "Business\\Constants\\PathConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:06:23.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RentalDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\RentalDetailsDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\RentalDetailsDto.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\RentalDetailsDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\RentalDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:34:06.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserForLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\UserForLoginDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\UserForLoginDto.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\UserForLoginDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\UserForLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:34:08.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccesToken.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Security\\JWT\\AccesToken.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\AccesToken.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Security\\JWT\\AccesToken.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\AccesToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:30:38.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:30:39.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JWTHelper.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Security\\JWT\\JWTHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\JWTHelper.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Security\\JWT\\JWTHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\JWTHelper.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:58:50.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FindexDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\FindexDetailsDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\FindexDetailsDto.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\FindexDetailsDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\FindexDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:34:05.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarFindexDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\CarFindexDetailsDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\CarFindexDetailsDto.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\CarFindexDetailsDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\CarFindexDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:34:02.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\CarDetailsDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\CarDetailsDto.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\CarDetailsDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\CarDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:34:00.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarImage.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\Concrete\\CarImage.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\CarImage.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\Concrete\\CarImage.cs",
+              "RelativeToolTip": "Entities\\Concrete\\CarImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:32:25.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CarFindex.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\Concrete\\CarFindex.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\CarFindex.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\Concrete\\CarFindex.cs",
+              "RelativeToolTip": "Entities\\Concrete\\CarFindex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:32:13.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InMemoryCarDal.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\DataAccess\\Concrete\\InMemory\\InMemoryCarDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\InMemory\\InMemoryCarDal.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\DataAccess\\Concrete\\InMemory\\InMemoryCarDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\InMemory\\InMemoryCarDal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:31:49.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EfCustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\DataAccess\\Concrete\\EntityFremework\\EfCustomerDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFremework\\EfCustomerDal.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\DataAccess\\Concrete\\EntityFremework\\EfCustomerDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFremework\\EfCustomerDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:31:40.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EfCarFindexDal.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\DataAccess\\Concrete\\EntityFremework\\EfCarFindexDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFremework\\EfCarFindexDal.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\DataAccess\\Concrete\\EntityFremework\\EfCarFindexDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFremework\\EfCarFindexDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:31:01.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EfColorDal.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\DataAccess\\Concrete\\EntityFremework\\EfColorDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFremework\\EfColorDal.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\DataAccess\\Concrete\\EntityFremework\\EfColorDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFremework\\EfColorDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:30:59.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EfCarDal.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\DataAccess\\Concrete\\EntityFremework\\EfCarDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFremework\\EfCarDal.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\DataAccess\\Concrete\\EntityFremework\\EfCarDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFremework\\EfCarDal.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:30:52.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SigningCredentialsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:30:33.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SecurityKeyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:30:29.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorDataResult.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Result\\ErrorDataResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Result\\ErrorDataResult.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Result\\ErrorDataResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Result\\ErrorDataResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:30:25.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DataResult.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Result\\DataResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Result\\DataResult.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Result\\DataResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Result\\DataResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:30:23.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServiceTool.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\IoC\\ServiceTool.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\IoC\\ServiceTool.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\IoC\\ServiceTool.cs",
+              "RelativeToolTip": "Core\\Utilities\\IoC\\ServiceTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:30:20.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HashingHelper.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:00:28.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICoreModule.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\IoC\\ICoreModule.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\IoC\\ICoreModule.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\IoC\\ICoreModule.cs",
+              "RelativeToolTip": "Core\\Utilities\\IoC\\ICoreModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:30:17.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MethodInterception.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Interceptors\\MethodInterception.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\MethodInterception.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Interceptors\\MethodInterception.cs",
+              "RelativeToolTip": "Core\\Utilities\\Interceptors\\MethodInterception.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:29:54.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AspectInterceptorSelector.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "RelativeToolTip": "Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:29:37.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IFileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Helpers\\IFileHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Helpers\\IFileHelper.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Helpers\\IFileHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Helpers\\IFileHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:29:35.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FileHelperManager.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Helpers\\FileHelperManager.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Helpers\\FileHelperManager.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Helpers\\FileHelperManager.cs",
+              "RelativeToolTip": "Core\\Utilities\\Helpers\\FileHelperManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:29:33.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GuidHelper.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Helpers\\GuidHelpers\\GuidHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Helpers\\GuidHelpers\\GuidHelper.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Helpers\\GuidHelpers\\GuidHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Helpers\\GuidHelpers\\GuidHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:29:07.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BusinessRules.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Business\\BusinessRules.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Business\\BusinessRules.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Utilities\\Business\\BusinessRules.cs",
+              "RelativeToolTip": "Core\\Utilities\\Business\\BusinessRules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:27:31.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Core\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:27:18.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "Core\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:27:14.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Extensions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Extensions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Core\\Extensions\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:26:17.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Extensions\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Extensions\\ErrorDetails.cs",
+              "RelativeToolTip": "Core\\Extensions\\ErrorDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:26:16.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ClaimExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Extensions\\ClaimExtensions.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\ClaimExtensions.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Extensions\\ClaimExtensions.cs",
+              "RelativeToolTip": "Core\\Extensions\\ClaimExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:25:58.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IEntitiy.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Entities\\IEntitiy.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\IEntitiy.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Entities\\IEntitiy.cs",
+              "RelativeToolTip": "Core\\Entities\\IEntitiy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:25:55.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IDto.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Entities\\IDto.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\IDto.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Entities\\IDto.cs",
+              "RelativeToolTip": "Core\\Entities\\IDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:25:54.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserOperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Entities\\Concrete\\UserOperationClaim.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\UserOperationClaim.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Entities\\Concrete\\UserOperationClaim.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrete\\UserOperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:25:48.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Entities\\Concrete\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\User.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Entities\\Concrete\\User.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrete\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:25:47.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Entities\\Concrete\\OperationClaim.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\OperationClaim.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Entities\\Concrete\\OperationClaim.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrete\\OperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:25:45.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CoreModule.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\DepensdencyResolver\\CoreModule.cs",
+              "RelativeDocumentMoniker": "Core\\DepensdencyResolver\\CoreModule.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\DepensdencyResolver\\CoreModule.cs",
+              "RelativeToolTip": "Core\\DepensdencyResolver\\CoreModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:24:40.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ICacheManager.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\CrossCuttingConcers\\Caching\\ICacheManager.cs",
+              "RelativeDocumentMoniker": "Core\\CrossCuttingConcers\\Caching\\ICacheManager.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\CrossCuttingConcers\\Caching\\ICacheManager.cs",
+              "RelativeToolTip": "Core\\CrossCuttingConcers\\Caching\\ICacheManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:23:52.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MemoryCacheManager.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\CrossCuttingConcers\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "RelativeDocumentMoniker": "Core\\CrossCuttingConcers\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\CrossCuttingConcers\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "RelativeToolTip": "Core\\CrossCuttingConcers\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:23:47.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ValidationTool.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\CrossCuttingConcers\\Validation\\ValidationTool.cs",
+              "RelativeDocumentMoniker": "Core\\CrossCuttingConcers\\Validation\\ValidationTool.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\CrossCuttingConcers\\Validation\\ValidationTool.cs",
+              "RelativeToolTip": "Core\\CrossCuttingConcers\\Validation\\ValidationTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:03:15.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\DataAcces\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DataAcces\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\DataAcces\\IEntityRepository.cs",
+              "RelativeToolTip": "Core\\DataAcces\\IEntityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:09:50.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ValidationAspect.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:23:28.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TransactionScopeAspect.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Aspects\\Autofac\\Transaction\\TransactionScopeAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Transaction\\TransactionScopeAspect.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Aspects\\Autofac\\Transaction\\TransactionScopeAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Transaction\\TransactionScopeAspect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:21:25.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PerformanceAspect.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Aspects\\Autofac\\Performance\\PerformanceAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Performance\\PerformanceAspect.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Aspects\\Autofac\\Performance\\PerformanceAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Performance\\PerformanceAspect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:19:42.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CacheRemoveAspect.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:17:49.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CacheAspect.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:14:03.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BrandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\ValidationRules\\FluentValidation\\BrandValidator.cs",
+              "RelativeDocumentMoniker": "Business\\ValidationRules\\FluentValidation\\BrandValidator.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\ValidationRules\\FluentValidation\\BrandValidator.cs",
+              "RelativeToolTip": "Business\\ValidationRules\\FluentValidation\\BrandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:07:14.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CarImageValidator.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\ValidationRules\\FluentValidation\\CarImageValidator.cs",
+              "RelativeDocumentMoniker": "Business\\ValidationRules\\FluentValidation\\CarImageValidator.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\ValidationRules\\FluentValidation\\CarImageValidator.cs",
+              "RelativeToolTip": "Business\\ValidationRules\\FluentValidation\\CarImageValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:07:08.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AutofacBusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\DependencyResolyers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeDocumentMoniker": "Business\\DependencyResolyers\\Autofac\\AutofacBusinessModule.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\DependencyResolyers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeToolTip": "Business\\DependencyResolyers\\Autofac\\AutofacBusinessModule.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:06:38.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BrandManager.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Concrete\\BrandManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\BrandManager.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Concrete\\BrandManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\BrandManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:05:38.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SecuredOperation.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\BusinessAspect\\Autofac\\SecuredOperation.cs",
+              "RelativeDocumentMoniker": "Business\\BusinessAspect\\Autofac\\SecuredOperation.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\BusinessAspect\\Autofac\\SecuredOperation.cs",
+              "RelativeToolTip": "Business\\BusinessAspect\\Autofac\\SecuredOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:05:21.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CarManager.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Concrete\\CarManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CarManager.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Concrete\\CarManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CarManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:05:04.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ICarImageService.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Abstract\\ICarImageService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ICarImageService.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Abstract\\ICarImageService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ICarImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:04:50.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Abstract\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Business\\Abstract\\IAuthService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:02:20.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UserForUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\UserForUpdate.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\UserForUpdate.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\UserForUpdate.cs",
+              "RelativeToolTip": "Entities\\DTOs\\UserForUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:34:15.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CustomerDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\CustomerDetailsDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\CustomerDetailsDto.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\CustomerDetailsDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\CustomerDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:34:03.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UserForRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\UserForRegisterDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\UserForRegisterDto.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Entities\\DTOs\\UserForRegisterDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\UserForRegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:34:12.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RentACarContext.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\DataAccess\\Concrete\\EntityFremework\\RentACarContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFremework\\RentACarContext.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\DataAccess\\Concrete\\EntityFremework\\RentACarContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFremework\\RentACarContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:35:26.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\app.config",
+              "RelativeDocumentMoniker": "Core\\app.config",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\app.config",
+              "RelativeToolTip": "Core\\app.config",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-02T15:19:30.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Core\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Core\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:22:02.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\packages.config",
+              "RelativeDocumentMoniker": "Core\\packages.config",
+              "ToolTip": "C:\\Users\\svdef\\source\\repos\\RECAAP\\Core\\packages.config",
+              "RelativeToolTip": "Core\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-02T15:19:54.549Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
